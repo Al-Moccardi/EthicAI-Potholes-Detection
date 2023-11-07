@@ -60,8 +60,14 @@ The results are shown here using YOLO-small architecture
 https://github.com/Al-Moccardi/EthicAI-Potholes-Detection/assets/150179413/f47fa0bf-faf4-4f82-8cac-16c29f9914a6
 
 
+## Integration with Real system:
+
+![Screenshot 2023-11-07 225903](https://github.com/Al-Moccardi/EthicAI-Potholes-Detection/assets/150179413/a013074f-b55e-415a-9c21-1d02c71726ca)
 
 
+## Ethical Evaluation and Final Outcome
+
+![Uploading Screenshot 2023-11-07 230107.png…]()
 
 
 
