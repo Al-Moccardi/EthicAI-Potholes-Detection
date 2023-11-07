@@ -55,7 +55,10 @@ The results are shown here using YOLO-small architecture
 
 
 
-https://github.com/Al-Moccardi/EthicAI-Potholes-Detection/assets/150179413/49d4b71f-e086-4df2-8620-72fbfaad3118
+
+
+https://github.com/Al-Moccardi/EthicAI-Potholes-Detection/assets/150179413/f47fa0bf-faf4-4f82-8cac-16c29f9914a6
+
 
 
 
