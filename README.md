@@ -1,5 +1,9 @@
 # EthicAI-Potholes-Detection
 
+link to the Colab:
+
+https://colab.research.google.com/drive/1pgc5T1sSnH3g76ueXEoY66L9Gl-IiK4G#scrollTo=pUQVvam5y68D
+
 
 ## Introduction
 
@@ -67,7 +71,8 @@ https://github.com/Al-Moccardi/EthicAI-Potholes-Detection/assets/150179413/f47fa
 
 ## Ethical Evaluation and Final Outcome
 
-![Uploading Screenshot 2023-11-07 230107.png…]()
+
+![Screenshot 2023-11-07 230107](https://github.com/Al-Moccardi/EthicAI-Potholes-Detection/assets/150179413/22ead94f-f686-4f76-8ea8-d388edfc4783)
 
 
 
