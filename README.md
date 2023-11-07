@@ -54,6 +54,7 @@ Experiments are conducted using YOLOv8 family model for object detection compari
 The results are shown here using YOLO-small architecture
 
 
+![Progetto senza titolo (1)](https://github.com/Al-Moccardi/EthicAI-Potholes-Detection/assets/150179413/1c55183b-9f59-4a34-a823-7f521275409f)
 
 
 
