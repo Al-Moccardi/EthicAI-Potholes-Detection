@@ -2,7 +2,8 @@
 
 link to the Colab:
 
-https://colab.research.google.com/drive/1pgc5T1sSnH3g76ueXEoY66L9Gl-IiK4G#scrollTo=pUQVvam5y68D
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VaGDMFfT8NbMLLEOqfioJ8QrZD4BcK9D?usp=drive_link)
+
 
 
 ## Introduction
